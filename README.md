@@ -82,7 +82,7 @@ yarn start
 <br />
 
 #### Daha fazla komuta nasıl ulaşabilirim?
-Evet daha birkaç komut daha mevcut bunları [package.json](package.json) içerisinde `"scripts"` altında bulabilirsiniz.
+Evet daha birkaç komut daha mevcut bunları [package.json](https://cdn.jsdelivr.net/gh/dizipaltv/dizipal/package.json) içerisinde `"scripts"` altında bulabilirsiniz.
 işte versiyon 1.0.0 için kullanılan komutlar
 ```json
 "scripts": {
