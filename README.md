@@ -7,7 +7,8 @@
 Merhabalar ücretsiz film izlemeyi sevenler topluluğu. Sizler için Dizipal'in masaüstü versiyonunu çıkardım. Amacım Bu uygulamayı güncel dizipal adresine göre güncel tutmak. Şu anda ilk sürümünü yayınladım ve projenin kaynak kodlarını da beraberinde yayınladım. Keyifli Seyretmeler.
 
 > [!IMPORTANT]      
-> Şu anda sadece Windows için yüklenebilir.
+> Sorumluluk tamamen kullanan kullanıcıya aittir. Herhangi bir mesuliyet kabul etmiyorum.     
+> Şu anda sadece Windows için yüklenebilir.     
 
 
 <br /><br />
@@ -18,7 +19,6 @@ Merhabalar ücretsiz film izlemeyi sevenler topluluğu. Sizler için Dizipal'in 
 - Dizipal'in güncel sitelerine her zaman erişebileceksiniz.
 - Dizipal'i özelleştirilmiş adblocker ile kullanacaksınız (Tamamen dizipal'e özel)
 - Herhangi bir internet taraması yapmak zorunda kalmadan, çoğu dizi ve filme Masaüstü uygulamasından ulaşabileceksiniz.
-
 
 <br /><br />
 
@@ -92,7 +92,7 @@ yarn start
 <br />
 
 #### Daha fazla komuta nasıl ulaşabilirim?
-Evet daha birkaç komut daha mevcut bunları [package.json](https://cdn.jsdelivr.net/gh/dizipaltv/dizipal/package.json) içerisinde `"scripts"` altında bulabilirsiniz.
+Evet daha birkaç komut daha mevcut bunları [package.json](package.json) içerisinde `"scripts"` altında bulabilirsiniz.
 işte versiyon 1.0.0 için kullanılan komutlar
 ```json
 "scripts": {
